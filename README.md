@@ -7,6 +7,6 @@ You can click the Preview link to take a look at your changes.
 ## 👋 Hola terricolas, I’m Gre and I work at @github. 
 
 - 👀 I’m interested in drawing, pottery, coding, music, and languages.
-- 🌱 I’m currently learning HTML, CSS and JS.
-- 💞️ I’m a Hubber!
+- 🌱 I love creating new things, like babies, AI applications, empanadas and songs.
+
 
